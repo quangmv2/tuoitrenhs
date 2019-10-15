@@ -1,0 +1,7 @@
+User-agent: *
+Allow: /
+Disallow: /resources/
+
+Sitemap: http://quandoannguhanhson.org.vn/sitemap.xml
+
+

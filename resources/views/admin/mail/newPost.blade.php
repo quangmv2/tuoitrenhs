@@ -1,0 +1,2 @@
+Hệ thống website <a href="quandoannguhanhson.org.vn">quandoannguhanhson.org.vn</a> đã tiếp nhận 01 bài viết mới. Cần bạn xem xét và phê duyệt.
+Truy cập <a href="http://quandoannguhanhson.org.vn/admin/bai-viet/passPost">Phê duyệt bài viết </a>để biết thêm chi tiết.
