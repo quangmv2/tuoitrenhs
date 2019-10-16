@@ -12,9 +12,10 @@ class Controller extends BaseController
 {
     use AuthorizesRequests, DispatchesJobs, ValidatesRequests;
 
-    function _construct()
+    function _construct(Request $request)
     {
     	$this->login();
+       
     }
 
     function login()

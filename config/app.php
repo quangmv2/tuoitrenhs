@@ -228,4 +228,7 @@ return [
 
     ],
 
+    'log_max_files' => 30,
+    //save file log
+
 ];
